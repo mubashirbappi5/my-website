@@ -1,0 +1,106 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+.name1{
+    color:aqua;
+}.name1:hover{
+    color: orange;
+    font-size: 70px;
+}
+.name2{
+    color: hotpink;
+}
+.name2:hover{
+    color: rgb(0, 255, 21);
+    font-size: 70px;
+}
+.intro{
+    float: left;
+    padding-left: 50px;
+    margin-left: 100px;
+    padding-top: 100px;
+    margin-top: 80px;
+}
+#int{
+    margin-right: 400px;
+    padding-right: 500px;
+    width: 2%;
+    height: 2%;
+    
+    
+    float: right;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 500px;
+}
+.header{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: orangered;
+    padding: 10px 20px;
+    color: aliceblue;
+    font-weight: bold;
+}.link-button:hover{
+    background-color: aqua;
+}
+
+#dream{
+    padding-top: 1oopx;
+    margin-top: 300px;
+}.bio{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.latest-work{
+    text-align: center;
+}.limg{
+
+    width: 1500px;
+    margin: 200px;;
+
+}.limg img {
+    width: 30%;
+}
+.latest{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.for{
+    text-align: center;
+    margin-top: 40px;
+    
+} .footer{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.mail{
+    border-radius: 20px;
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px 30px;
+    width: 30%;
+    margin-left: 650px;
+    margin-top: 300px;
+}
+.mail:hover{ background-color: hotpink;
+
+}
+footer{
+    text-align: center;
+    margin-top: 400px;
+}
